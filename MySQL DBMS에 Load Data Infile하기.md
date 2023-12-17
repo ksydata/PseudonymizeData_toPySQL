@@ -53,8 +53,8 @@
     
     Connect to Database > Advanced > Others > `OPT_LOCAL_INFILE=1`
     
-    ![Untitled](MySQL%20DBMS%E1%84%8B%E1%85%A6%20Load%20Data%20Infile%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20e7028e5166624c00920e33a4882afc08/Untitled.png)
-    
+    ![Untitled 1](https://github.com/ksydata/PseudonymizeData_toPySQL/assets/112922030/794669fb-f1fe-4b7a-ac07-b7e708369957)
+  
 - **Database Schema ∙ Table 생성하기**
     
     ![Untitled](MySQL%20DBMS%E1%84%8B%E1%85%A6%20Load%20Data%20Infile%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20e7028e5166624c00920e33a4882afc08/Untitled%201.png)
