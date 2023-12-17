@@ -53,8 +53,8 @@
     
     Connect to Database > Advanced > Others > `OPT_LOCAL_INFILE=1`
     
-    ![Untitled 1](https://github.com/ksydata/PseudonymizeData_toPySQL/assets/112922030/794669fb-f1fe-4b7a-ac07-b7e708369957)
+    ![Untitled](https://github.com/ksydata/PseudonymizeData_toPySQL/assets/112922030/fa3784a9-1dc2-4454-8278-42bb9517e276)
   
 - **Database Schema ∙ Table 생성하기**
     
-    ![Untitled](https://github.com/ksydata/PseudonymizeData_toPySQL/assets/112922030/fa3784a9-1dc2-4454-8278-42bb9517e276)
+    ![Untitled 1](https://github.com/ksydata/PseudonymizeData_toPySQL/assets/112922030/794669fb-f1fe-4b7a-ac07-b7e708369957)
